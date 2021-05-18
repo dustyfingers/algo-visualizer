@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Algo Helper",
+  "name": "Algo Helper - An app to help you visualize algorithms",
   "icons": [
     {
       "src": "favicon.ico",

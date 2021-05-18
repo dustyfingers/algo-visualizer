@@ -6,7 +6,7 @@ import { Navbar, Toolbar } from 'sancho';
 const Menu = () => {
     return (
         <Navbar css={{}}>
-            <Toolbar>HELLO WORLD</Toolbar>
+            <Toolbar>Algo Helper</Toolbar>
         </Navbar>
     );
 }
