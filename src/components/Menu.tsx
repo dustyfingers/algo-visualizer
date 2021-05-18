@@ -7,7 +7,6 @@ const Menu = () => {
             <Toolbar>HELLO WORLD</Toolbar>
         </Navbar>
     );
-
 }
 
 export default Menu;
