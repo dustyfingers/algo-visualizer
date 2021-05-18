@@ -5,7 +5,7 @@ import { Navbar, Toolbar } from 'sancho';
 
 const Menu = () => {
     return (
-        <Navbar css={{ color: "green"}}>
+        <Navbar css={{}}>
             <Toolbar>HELLO WORLD</Toolbar>
         </Navbar>
     );
