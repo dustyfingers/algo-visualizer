@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import Menu from './components/Menu';
@@ -8,7 +7,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App" style={{height: '100vh', display: 'flex', justifyContent: 'space-between', flexDirection: 'column'}}>
+    <div className="App">
       <Menu />
       <div style={{height: '100%'}}>
         <SandboxArea />
