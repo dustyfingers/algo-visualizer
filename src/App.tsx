@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Menu />
-      <div style={{height: '100%'}}>
+      <div className="sandbox-container" style={{height: '100%'}}>
         <SandboxArea />
       </div>
       <Footer/>
